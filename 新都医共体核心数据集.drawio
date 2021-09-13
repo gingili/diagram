@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T08:27:08.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.12 Safari/537.36" etag="NyK08g7sO9OZIfCl1kXm" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:28:11.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.12 Safari/537.36" etag="HPTXJ7i--Hvp7O_H-VGt" version="14.6.11" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -358,7 +358,7 @@
         <mxCell id="S-8a1_tJUT54iFCu8aue-3" value="ServiceRequest(检查申请单)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1005.5" y="2110" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-4" value="&lt;div&gt;申请编号&lt;/div&gt;&lt;div&gt;溯源&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;&lt;div&gt;意图&lt;/div&gt;&lt;div&gt;检查场景&lt;/div&gt;&lt;div&gt;检查分类&lt;/div&gt;&lt;div&gt;检查项目&lt;/div&gt;&lt;div&gt;检查次数&lt;/div&gt;&lt;div&gt;被检查的对象&lt;/div&gt;&lt;div&gt;相关医疗事件&lt;/div&gt;&lt;div&gt;申请时间&lt;/div&gt;&lt;div&gt;检查时间&lt;/div&gt;&lt;div&gt;申请检查的科室&lt;/div&gt;&lt;div&gt;检查的位置&lt;/div&gt;&lt;div&gt;检查的诊室&lt;/div&gt;&lt;div&gt;申请原因&lt;/div&gt;&lt;div&gt;采样位置&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="S-8a1_tJUT54iFCu8aue-4" value="&lt;div&gt;申请编号&lt;/div&gt;&lt;div&gt;溯源&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;&lt;div&gt;意图&lt;/div&gt;&lt;div&gt;检查场景&lt;/div&gt;&lt;div&gt;检查分类&lt;/div&gt;&lt;div&gt;检查项目&lt;/div&gt;&lt;div&gt;检查次数&lt;/div&gt;&lt;div&gt;被检查的对象&lt;/div&gt;&lt;div&gt;相关医疗事件&lt;/div&gt;&lt;div&gt;申请时间&lt;/div&gt;&lt;div&gt;检查时间&lt;/div&gt;&lt;div&gt;检查的科室&lt;/div&gt;&lt;div&gt;检查的位置&lt;/div&gt;&lt;div&gt;检查的诊室&lt;/div&gt;&lt;div&gt;申请原因&lt;/div&gt;&lt;div&gt;采样位置&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1018.5" y="2180" width="110" height="300" as="geometry" />
         </mxCell>
         <mxCell id="S-8a1_tJUT54iFCu8aue-5" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
