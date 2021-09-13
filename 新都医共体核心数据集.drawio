@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T08:20:09.650Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3877.400 QQBrowser/10.8.4506.400" etag="RgIs5ld1808zXtKE-NA1" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:22:13.045Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3877.400 QQBrowser/10.8.4506.400" etag="vO2QjvnIrV7l8j9zkoGo" version="15.2.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -215,15 +215,15 @@
           <mxGeometry x="964" y="1280" width="144" height="10" as="geometry" />
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-71" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1272" y="1190" width="186" height="415" as="geometry" />
+          <mxGeometry x="1247" y="1190" width="238" height="415" as="geometry" />
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zRFbJm7S1wxy6Lh3OuT4-73" target="zRFbJm7S1wxy6Lh3OuT4-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-73" value="Practitioner(从业者)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-73" value="DiagnosticReport(检查报告)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1296" y="1220" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-74" value="姓名&lt;br&gt;性别&lt;br&gt;身份证号码&lt;br&gt;电话号码&lt;br&gt;出生日期&lt;br&gt;居住地址" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-74" value="&lt;div&gt;报告编号&lt;/div&gt;&lt;div&gt;溯源&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;&lt;div&gt;检查场景&lt;/div&gt;&lt;div&gt;检查分类&lt;/div&gt;&lt;div&gt;检查项目&lt;/div&gt;&lt;div&gt;检查的对象&lt;/div&gt;&lt;div&gt;相关医疗事件&lt;/div&gt;&lt;div&gt;检查责任人&lt;/div&gt;&lt;div&gt;报告责任人&lt;/div&gt;&lt;div&gt;片子&lt;/div&gt;&lt;div&gt;检查结果&lt;/div&gt;&lt;div&gt;结论&lt;/div&gt;&lt;div&gt;附件&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1309" y="1290" width="110" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-75" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
