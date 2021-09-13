@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T07:09:10.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.12 Safari/537.36" etag="NYVaIbHnkxghRmBG4214" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T07:31:59.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.12 Safari/537.36" etag="x9Uayba7FLrjmTQO30hC" version="14.6.11" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,14 +40,29 @@
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zRFbJm7S1wxy6Lh3OuT4-18" target="zRFbJm7S1wxy6Lh3OuT4-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-18" value="Patient(患者)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-18" value="Encounter(医疗事件)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="714" y="225" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-19" value="姓名&lt;br&gt;性别&lt;br&gt;身份证号码&lt;br&gt;电话号码&lt;br&gt;出生日期&lt;br&gt;居住地址" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-19" value="问诊类型&lt;br&gt;服务类型&lt;br&gt;事件紧急程度&lt;br&gt;患者&lt;br&gt;医生&lt;br&gt;相关的挂号&lt;br&gt;持续时间&lt;br&gt;问诊的机构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="727" y="295" width="110" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="710" y="275" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-21" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="909" y="205" width="250" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zRFbJm7S1wxy6Lh3OuT4-23" target="zRFbJm7S1wxy6Lh3OuT4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-23" value="MedicationRequest(处方)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="964" y="225" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-24" value="处方编号&lt;br&gt;处方状态&lt;br&gt;处方类型&lt;br&gt;用药类型&lt;br&gt;用药优先级&lt;br&gt;药品名称&lt;br&gt;患者&lt;br&gt;相关的就诊事件&lt;br&gt;开药事件&lt;br&gt;开药原因" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="940" y="295" width="180" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="960" y="275" width="144" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
