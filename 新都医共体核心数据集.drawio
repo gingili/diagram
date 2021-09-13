@@ -1,1 +1,25 @@
-<mxfile host="Electron" modified="2021-09-13T06:34:57.070Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.1.1 Chrome/89.0.4389.128 Electron/12.1.0 Safari/537.36" etag="BmR4P_ElHsOFDqZzSUAy" version="15.1.1" type="device"><diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">7Zvfc6I6FMf/Gh/bgQT58aiI3c626051d59TiJhpIA7Sau9ffxONCgYrvVcNXe30gZwEQs7nJOR7wBb0k8VdhqaTRxZh2gJGtGjBXgsA0wKgJf6N6H1lcWx7ZYgzEslGW8OQ/IOl0ZDWVxLhWalhzhjNybRsDFma4jAv2VCWsXm52ZjRcq9TFGPFMAwRXVtv21v7HxLlE2k3bW9b8Q2TeCI7d4Ec4TMKX+KMvaayx5SleFWToPVl5ChnExSxecEEgxb0M8by1VGy8DEVjl37bHVef0/tZigZTvM6J9hGhNxnb2wB27IiiG4ktTdEX6Uj5I3m72vPzCckx8MpCkV5zum3YHeSJ5SXTH64HDiOZGkzQEMU8oy9bJzpcsuYpblkD0QLREmc8kLI7x9nogGh1GeUZcu+YT/oAdPZXKpYs/zjNaoLpFfecJbjRcEkXXKHWYLz7J03kbXQlCRl7FqGjIX5Ng6AKxFOCiFgQWlEMvrizbW3EPiB5FCTCVSYdEajp44/UtDw8eVlGmU/LSOx7FRpUhwvvEX4dOjIioREkeimW4V/y9zYZV4k7MhyFbZlOzmSijD+/wxBTYb2KRBaCsIuZXEL2FTwisgbP4zF4Xf8PmdZNFtX8Z4KtRUnDFlIkOj7EUcE7TvtS8WJaX0QJycIDaduaHinCA378IpLydL35eUT7Ft2D07BDxdZyfm06yvcmZtuBQCrAoB5CgDOFYBT9YA7GwBXATDkj7cfd8HTUCHBL8V3gPvWl3o4yhjtisXn0Dak2+9aHe9DSidcv0DbK9FrWyo902xX0Fsbj4rPOzx/ig+aIokIzSYbRvUfLfwaU3HlZBEL8XG72u+DW9EjmeGoI8ri8sJBxq0gvBQmlugmZXkonMR9wSlhviMXnfFmlho1pUAxK2bywccmRz8ej0EYHge9ZZQnbtuBKnrjXLsas8bSqVUt9H3DUHc3R56Oba9RasFUl1N/8ON38HSVC5+BqFUumOqa2mdZMqvY//uI0tlNzm46YU5YWls3PKA0IimXIMZPFOO9euNLRcyphcNukOgVDusc0iVtXO1dVa9VOWzu/4IJ6JUOa4cXCPy+H96PBo2VDtBzep2OLunQho2SDkBNbSrYrtrhSNrBdpukHYCaElXQ69UO3TNoB9dplHZY72eK2uFhMAy+2D7wrMpBQahVOQA1nRwkiNCqNwfc34jWf9Pwh2UvYyperF61wufDQrNWuMAkt7sr6fVqBTUtc3EENGsFNanyEHR6TRUKQd+DbahLKLhmo4QCrJHruAqFIwkFz26SUIA1kix6P0nyPMP4cJ4egQmfVo1SClBNvPSCh/u7b9e3DJ+iqFUsQDX9Erzx0VW9Z9h8Z3SfPrNF/c+TEpTl/Cyfe1L47Sod/kOU6NUOsEam5m/buZrmrqrXKh6gmpe5PAR61QNUEyv+r+Fo8Njcr5Rst+u2fV0KwjS8ZkmIGimQq4Q4koQwgdUoDaEmX34+DR4Ho+ZO3m7fhp6294QmdM44eXlx+5OXZV3hR0Uw+Bc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:44:39.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="F6fjS1cbgMxf3-Zvhp0y" version="15.2.1" type="github">
+  <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
+    <mxGraphModel dx="1422" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="60da8b9f42644d3a-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="750" y="280" width="184" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="qfdBdv0h7WUqeyIMPIq0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60da8b9f42644d3a-3" target="60da8b9f42644d3a-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-3" value="Patient(患者)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="774" y="300" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-4" value="姓名&lt;br&gt;性别" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="787" y="370" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="770" y="350" width="144" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
