@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T07:40:06.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.12 Safari/537.36" etag="EZRaWb7QHDZcckMn7cem" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T07:42:24.014Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3877.400 QQBrowser/10.8.4506.400" etag="S79ySKVrs27RJOdFwrIa" version="15.2.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,25 +59,85 @@
           <mxGeometry x="964" y="225" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-24" value="处方编号&lt;br&gt;处方状态&lt;br&gt;处方类型&lt;br&gt;用药类型&lt;br&gt;用药优先级&lt;br&gt;药品名称&lt;br&gt;患者&lt;br&gt;相关的就诊事件&lt;br&gt;开药事件&lt;br&gt;开药原因&lt;br&gt;开药原因具体说明&lt;br&gt;用药指导&lt;br&gt;配药要求" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="940" y="295" width="180" height="300" as="geometry" />
+          <mxGeometry x="944" y="290" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="960" y="275" width="144" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-3" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="132" y="690" width="184" height="415" as="geometry" />
+        </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-26" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1240" y="210" width="250" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-5" target="to4YBNBlUao-IPn_FhuO-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zRFbJm7S1wxy6Lh3OuT4-28" target="zRFbJm7S1wxy6Lh3OuT4-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-5" value="Appointment(预约请求)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="156" y="710" width="140" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-28" value="Schedule(排班)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1295" y="230" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-6" value="&lt;div&gt;预约挂号号源编号&lt;/div&gt;&lt;div&gt;预约状态&lt;/div&gt;&lt;div&gt;服务类型&lt;/div&gt;&lt;div&gt;预约类型&lt;/div&gt;&lt;div&gt;开始时间&lt;/div&gt;&lt;div&gt;结束时间&lt;/div&gt;&lt;div&gt;预约时段&lt;/div&gt;&lt;div&gt;创建挂号单时间&lt;/div&gt;&lt;div&gt;参与者&lt;/div&gt;&lt;div&gt;科室信息&lt;/div&gt;&lt;div&gt;费用信息&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="169" y="780" width="121" height="300" as="geometry" />
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-29" value="服务类型&lt;br&gt;班次时段&lt;br&gt;医生描述&lt;br&gt;诊室描述" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1271" y="300" width="180" height="300" as="geometry" />
         </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="152" y="760" width="144" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-30" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1291" y="280" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-16" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="690" width="270" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-18" target="to4YBNBlUao-IPn_FhuO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-18" value="AppointmentResponse(预约响应)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="445" y="720" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-19" value="&lt;div&gt;预约挂号单号&lt;/div&gt;&lt;div&gt;号源编号&lt;/div&gt;&lt;div&gt;开始时间&lt;/div&gt;&lt;div&gt;结束时间&lt;/div&gt;&lt;div&gt;响应医生&lt;/div&gt;&lt;div&gt;响应状态&lt;/div&gt;&lt;div&gt;备注&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="458" y="790" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="441" y="770" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-21" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="714" y="680" width="184" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-23" target="to4YBNBlUao-IPn_FhuO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-23" value="Practitioner(从业者)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="738" y="700" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-24" value="姓名&lt;br&gt;性别&lt;br&gt;身份证号码&lt;br&gt;电话号码&lt;br&gt;出生日期&lt;br&gt;居住地址" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="751" y="770" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="734" y="750" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-26" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="900" y="680" width="184" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-28" target="to4YBNBlUao-IPn_FhuO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-28" value="Practitioner(从业者)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="924" y="700" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-29" value="姓名&lt;br&gt;性别&lt;br&gt;身份证号码&lt;br&gt;电话号码&lt;br&gt;出生日期&lt;br&gt;居住地址" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="937" y="770" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-30" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="920" y="750" width="144" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
