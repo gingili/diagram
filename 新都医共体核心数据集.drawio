@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T07:51:32.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.12 Safari/537.36" etag="01H-9659-C3OXD3BGsco" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:07:41.675Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3877.400 QQBrowser/10.8.4506.400" etag="j9ynsMhopdSeDUwaiCwJ" version="15.2.1" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="700" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,81 @@
         </mxCell>
         <mxCell id="zRFbJm7S1wxy6Lh3OuT4-75" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1292" y="1270" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-36" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="109" y="1640" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-38" target="to4YBNBlUao-IPn_FhuO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-38" value="Location(诊室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="133" y="1670" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-39" value="&lt;div&gt;诊室号&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;&lt;div&gt;诊室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;诊室详细信息&lt;/div&gt;&lt;div&gt;对应科室&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="146" y="1740" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-40" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="129" y="1720" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-56" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1278" y="1630" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-58" target="to4YBNBlUao-IPn_FhuO-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-58" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1302" y="1660" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-59" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="1730" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-60" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="1710" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-61" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="963" y="1630" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-63" target="to4YBNBlUao-IPn_FhuO-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-63" value="Contract(签约)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="987" y="1660" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-64" value="&lt;div&gt;合同编号&lt;/div&gt;&lt;div&gt;合同签署时间&lt;/div&gt;&lt;div&gt;合同有效期&lt;/div&gt;&lt;div&gt;合同主体&lt;/div&gt;&lt;div&gt;签约机构&lt;/div&gt;&lt;div&gt;合同名&lt;/div&gt;&lt;div&gt;合同编写者&lt;/div&gt;&lt;div&gt;合同条款&lt;/div&gt;&lt;div&gt;合同签署方&lt;/div&gt;&lt;div&gt;合同附件&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1730" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-65" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="983" y="1710" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-66" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="676" y="1625" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-68" target="to4YBNBlUao-IPn_FhuO-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-68" value="CareTeam(签约团队)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="1655" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-69" value="&lt;div&gt;团队唯一标识&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;&lt;div&gt;名称&lt;/div&gt;&lt;div&gt;团队服务对象&lt;/div&gt;&lt;div&gt;团队成员&lt;/div&gt;&lt;div&gt;团队联系方式&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="713" y="1725" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-70" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="696" y="1705" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-71" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1640" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="to4YBNBlUao-IPn_FhuO-73" target="to4YBNBlUao-IPn_FhuO-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-73" value="Observation(观察项)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="394" y="1670" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-74" value="&lt;div&gt;体征信息唯一标识&lt;/div&gt;&lt;div&gt;状态&lt;/div&gt;&lt;div&gt;检测项名称&lt;/div&gt;&lt;div&gt;关联对象&lt;/div&gt;&lt;div&gt;相关医疗事件&lt;/div&gt;&lt;div&gt;当前版本发布时间&lt;/div&gt;&lt;div&gt;检测责任人&lt;/div&gt;&lt;div&gt;备注&lt;/div&gt;&lt;div&gt;检测位置&lt;/div&gt;&lt;div&gt;观察项的子项&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="407" y="1740" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="to4YBNBlUao-IPn_FhuO-75" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1720" width="144" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
