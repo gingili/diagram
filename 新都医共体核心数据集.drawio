@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T08:28:11.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.12 Safari/537.36" etag="HPTXJ7i--Hvp7O_H-VGt" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:45:46.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.12 Safari/537.36" etag="WFb9xJ033cUluEC3xEv3" version="14.6.11" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,6 +363,198 @@
         </mxCell>
         <mxCell id="S-8a1_tJUT54iFCu8aue-5" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1001.5" y="2160" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-7" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="2390" as="sourcePoint" />
+            <mxPoint x="870" y="2340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-13" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="2670" as="sourcePoint" />
+            <mxPoint x="1260" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-14" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="128" y="2740" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-16" target="S-8a1_tJUT54iFCu8aue-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-16" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="152" y="2770" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-17" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="165" y="2840" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-18" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="148" y="2820" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-19" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2750" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-21" target="S-8a1_tJUT54iFCu8aue-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-21" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="454" y="2780" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-22" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="467" y="2850" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-23" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2830" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-24" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2750" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-26" target="S-8a1_tJUT54iFCu8aue-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-26" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="724" y="2780" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-27" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="737" y="2850" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-28" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2830" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-29" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="968" y="2750" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-31" target="S-8a1_tJUT54iFCu8aue-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-31" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="992" y="2780" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-32" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="2850" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-33" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="988" y="2830" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-34" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="2750" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-36" target="S-8a1_tJUT54iFCu8aue-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-36" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1294" y="2780" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-37" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1307" y="2850" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-38" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="2830" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-39" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="127" y="3210" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-41" target="S-8a1_tJUT54iFCu8aue-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-41" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="151" y="3240" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-42" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="164" y="3310" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-43" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="147" y="3290" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-44" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="418" y="3220" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-46" target="S-8a1_tJUT54iFCu8aue-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-46" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="442" y="3250" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-47" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="3320" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-48" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="438" y="3300" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-49" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="701" y="3220" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-51" target="S-8a1_tJUT54iFCu8aue-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-51" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="725" y="3250" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-52" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="738" y="3320" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-53" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="721" y="3300" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-54" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="128" y="2740" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-56" target="S-8a1_tJUT54iFCu8aue-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-56" value="CareTeam(团队)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="152" y="2770" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-57" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="165" y="2840" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-58" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="148" y="2820" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-59" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="980" y="3220" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-61" target="S-8a1_tJUT54iFCu8aue-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-61" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1004" y="3250" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-62" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="3320" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-63" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="3300" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-64" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="3210" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-66" target="S-8a1_tJUT54iFCu8aue-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-66" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1314" y="3240" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-67" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="3310" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-68" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="3290" width="144" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-69" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="132" y="3690" width="186" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-71" target="S-8a1_tJUT54iFCu8aue-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-71" value="Department(科室)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="156" y="3720" width="140" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-72" value="&lt;div&gt;科室编号&lt;/div&gt;&lt;div&gt;是否可用&lt;/div&gt;&lt;div&gt;科室名称&lt;/div&gt;&lt;div&gt;别名&lt;/div&gt;&lt;div&gt;联系方式&lt;/div&gt;&lt;div&gt;电子邮箱&lt;/div&gt;&lt;div&gt;地址&lt;/div&gt;&lt;div&gt;科室所属医院&lt;/div&gt;&lt;div&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="169" y="3790" width="110" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="S-8a1_tJUT54iFCu8aue-73" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="152" y="3770" width="144" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
