@@ -1,371 +1,368 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T11:03:08.938Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="v63yE4B1TJ8U26eE6p8Z" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-14T01:55:05.697Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="nfYCCrtEKpCTauhctVEB" version="15.2.2" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="5816.5" dy="1986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="60da8b9f42644d3a-2" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="80" width="160" height="300" as="geometry" />
+          <mxGeometry x="1040" y="40" width="160" height="300" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-3" value="Patient&lt;br&gt;患者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1050" y="100" width="140" height="45" as="geometry" />
+          <mxGeometry x="1050" y="60" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-4" value="姓名&lt;br style=&quot;font-size: 12px;&quot;&gt;性别&lt;br style=&quot;font-size: 12px;&quot;&gt;身份证号码&lt;br style=&quot;font-size: 12px;&quot;&gt;电话号码&lt;br style=&quot;font-size: 12px;&quot;&gt;出生日期&lt;br style=&quot;font-size: 12px;&quot;&gt;居住地址" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="165" width="100" height="200" as="geometry" />
+          <mxGeometry x="1058" y="125" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="60da8b9f42644d3a-6" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="150" width="140" height="10" as="geometry" />
+          <mxGeometry x="1050" y="110" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-10" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="800" y="80" width="160" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-10" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="800" y="40" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-12" value="Practitioner&lt;br&gt;从业者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="810" y="100" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-12" value="Practitioner&lt;br&gt;从业者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="810" y="60" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-13" value="姓名&lt;br style=&quot;font-size: 12px;&quot;&gt;性别&lt;br style=&quot;font-size: 12px;&quot;&gt;身份证号码&lt;br style=&quot;font-size: 12px;&quot;&gt;电话号码&lt;br style=&quot;font-size: 12px;&quot;&gt;出生日期&lt;br style=&quot;font-size: 12px;&quot;&gt;居住地址" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="830" y="165" width="100" height="200" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-13" value="姓名&lt;br style=&quot;font-size: 12px;&quot;&gt;性别&lt;br style=&quot;font-size: 12px;&quot;&gt;身份证号码&lt;br style=&quot;font-size: 12px;&quot;&gt;电话号码&lt;br style=&quot;font-size: 12px;&quot;&gt;出生日期&lt;br style=&quot;font-size: 12px;&quot;&gt;居住地址" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="820" y="125" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-14" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="810" y="150" width="140" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-14" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="810" y="110" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-16" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="80" width="160" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-16" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="40" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-18" value="Encounter&lt;br&gt;就诊" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1290" y="100" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-18" value="Encounter&lt;br&gt;就诊" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1290" y="60" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-19" value="问诊类型&lt;br style=&quot;font-size: 12px;&quot;&gt;服务类型&lt;br style=&quot;font-size: 12px;&quot;&gt;事件紧急程度&lt;br style=&quot;font-size: 12px;&quot;&gt;患者&lt;br style=&quot;font-size: 12px;&quot;&gt;医生&lt;br style=&quot;font-size: 12px;&quot;&gt;相关的挂号&lt;br style=&quot;font-size: 12px;&quot;&gt;持续时间&lt;br style=&quot;font-size: 12px;&quot;&gt;问诊的机构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="165" width="100" height="200" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-19" value="问诊类型&lt;br style=&quot;font-size: 12px;&quot;&gt;服务类型&lt;br style=&quot;font-size: 12px;&quot;&gt;事件紧急程度&lt;br style=&quot;font-size: 12px;&quot;&gt;患者&lt;br style=&quot;font-size: 12px;&quot;&gt;医生&lt;br style=&quot;font-size: 12px;&quot;&gt;相关的挂号&lt;br style=&quot;font-size: 12px;&quot;&gt;持续时间&lt;br style=&quot;font-size: 12px;&quot;&gt;问诊的机构" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="125" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="150" width="140" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="110" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-21" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="560" y="520" width="160" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-21" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560" y="440" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-23" value="MedicationRequest&lt;br&gt;药品处方" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="540" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-23" value="MedicationRequest&lt;br&gt;药品处方" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="460" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-24" value="处方编号&lt;br style=&quot;font-size: 12px;&quot;&gt;处方状态&lt;br style=&quot;font-size: 12px;&quot;&gt;处方类型&lt;br style=&quot;font-size: 12px;&quot;&gt;用药类型&lt;br style=&quot;font-size: 12px;&quot;&gt;用药优先级&lt;br style=&quot;font-size: 12px;&quot;&gt;药品名称&lt;br style=&quot;font-size: 12px;&quot;&gt;患者&lt;br style=&quot;font-size: 12px;&quot;&gt;相关的就诊事件&lt;br style=&quot;font-size: 12px;&quot;&gt;开药事件&lt;br style=&quot;font-size: 12px;&quot;&gt;开药原因&lt;br style=&quot;font-size: 12px;&quot;&gt;开药原因说明&lt;br style=&quot;font-size: 12px;&quot;&gt;用药指导&lt;br style=&quot;font-size: 12px;&quot;&gt;配药要求" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="590" y="605" width="100" height="200" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-24" value="处方编号&lt;br style=&quot;font-size: 12px&quot;&gt;处方状态&lt;br style=&quot;font-size: 12px&quot;&gt;处方类型&lt;br style=&quot;font-size: 12px&quot;&gt;用药类型&lt;br style=&quot;font-size: 12px&quot;&gt;用药优先级&lt;br style=&quot;font-size: 12px&quot;&gt;药品名称&lt;br style=&quot;font-size: 12px&quot;&gt;患者&lt;br style=&quot;font-size: 12px&quot;&gt;处方对应的就诊&lt;br style=&quot;font-size: 12px&quot;&gt;开药事件&lt;br style=&quot;font-size: 12px&quot;&gt;开药原因&lt;br style=&quot;font-size: 12px&quot;&gt;开药原因说明&lt;br style=&quot;font-size: 12px&quot;&gt;用药指导&lt;br style=&quot;font-size: 12px&quot;&gt;配药要求" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="580" y="525" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="570" y="590" width="140" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="510" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-3" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="520" width="160" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-3" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="440" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-26" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1038" y="520" width="160" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-26" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1038" y="440" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-5" value="Appointment&lt;br&gt;预约请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="540" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-5" value="Appointment&lt;br&gt;预约请求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="460" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-28" value="Schedule&lt;br style=&quot;font-size: 18px;&quot;&gt;排班" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1048" y="539" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-28" value="Schedule&lt;br style=&quot;font-size: 18px;&quot;&gt;排班" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1048" y="459" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-6" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;号源编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;预约状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;服务类型&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;预约类型&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;开始时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;结束时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;预约时段&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;创建挂号单时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;参与者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;科室信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;费用信息&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="605" width="100" height="200" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-6" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;号源编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;预约状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;服务类型&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;预约类型&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;开始时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;结束时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;预约时段&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;创建挂号单时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;参与者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;科室信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;费用信息&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="100" y="525" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-29" value="服务类型&lt;br style=&quot;font-size: 12px;&quot;&gt;班次时段&lt;br style=&quot;font-size: 12px;&quot;&gt;医生描述&lt;br style=&quot;font-size: 12px;&quot;&gt;诊室描述" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="605" width="100" height="200" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-29" value="服务类型&lt;br style=&quot;font-size: 12px;&quot;&gt;班次时段&lt;br style=&quot;font-size: 12px;&quot;&gt;医生描述&lt;br style=&quot;font-size: 12px;&quot;&gt;诊室描述" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="525" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="90" y="590" width="140" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-7" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="510" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-30" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="590" width="140" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-30" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="510" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="520" width="160" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="440" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-16" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="320.5" y="520" width="160" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-16" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="320.5" y="440" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-33" value="ChargeItem&lt;br&gt;支付项" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1530" y="540" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-33" value="ChargeItem&lt;br&gt;支付项" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1530" y="460" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-18" value="AppointmentResponse&lt;br&gt;预约响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="330.5" y="540" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-18" value="AppointmentResponse&lt;br&gt;预约响应" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="330.5" y="460" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-34" value="支付状态&lt;br style=&quot;font-size: 12px;&quot;&gt;患者&lt;br style=&quot;font-size: 12px;&quot;&gt;创建时间&lt;br style=&quot;font-size: 12px;&quot;&gt;价格&lt;br style=&quot;font-size: 12px;&quot;&gt;数量&lt;br style=&quot;font-size: 12px;&quot;&gt;提供服务的医生&lt;br style=&quot;font-size: 12px;&quot;&gt;提供服务的科室" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="605" width="100" height="200" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-34" value="支付状态&lt;br style=&quot;font-size: 12px;&quot;&gt;患者&lt;br style=&quot;font-size: 12px;&quot;&gt;创建时间&lt;br style=&quot;font-size: 12px;&quot;&gt;价格&lt;br style=&quot;font-size: 12px;&quot;&gt;数量&lt;br style=&quot;font-size: 12px;&quot;&gt;提供服务的医生&lt;br style=&quot;font-size: 12px;&quot;&gt;提供服务的科室" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="525" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-19" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;预约挂号单号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;号源编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;开始时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;结束时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;响应医生&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;响应状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;备注&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="605" width="100" height="200" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-19" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;预约挂号单号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;号源编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;开始时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;结束时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;响应医生&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;响应状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;备注&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="525" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-35" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="590" width="140" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-35" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="510" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="330" y="590" width="140" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-20" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="330" y="510" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-36" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="520" width="160" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-36" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="440" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-21" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="668.5" y="955" width="184" height="415" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-21" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560" y="840" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-38" value="Slot&lt;br style=&quot;font-size: 18px;&quot;&gt;时段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1290" y="540" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-38" value="Slot&lt;br style=&quot;font-size: 18px;&quot;&gt;时段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1290" y="460" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-23" value="CarePlan(门特计划)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="692.5" y="975" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-23" value="CarePlan&lt;br&gt;门特计划" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="860" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-39" value="状态&lt;br style=&quot;font-size: 12px;&quot;&gt;开始时间&lt;br style=&quot;font-size: 12px;&quot;&gt;结束时间&lt;br style=&quot;font-size: 12px;&quot;&gt;门诊类型&lt;br style=&quot;font-size: 12px;&quot;&gt;预约类型&lt;br style=&quot;font-size: 12px;&quot;&gt;已挂号数量&lt;br style=&quot;font-size: 12px;&quot;&gt;挂号总数量&lt;br style=&quot;font-size: 12px;&quot;&gt;排班信息&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="605" width="100" height="200" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-39" value="状态&lt;br style=&quot;font-size: 12px;&quot;&gt;开始时间&lt;br style=&quot;font-size: 12px;&quot;&gt;结束时间&lt;br style=&quot;font-size: 12px;&quot;&gt;门诊类型&lt;br style=&quot;font-size: 12px;&quot;&gt;预约类型&lt;br style=&quot;font-size: 12px;&quot;&gt;已挂号数量&lt;br style=&quot;font-size: 12px;&quot;&gt;挂号总数量&lt;br style=&quot;font-size: 12px;&quot;&gt;排班信息&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="525" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-24" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;治疗计划编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;治疗计划状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;意图&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;标题&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;管理对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;管理计划对应的时期&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;计划创建者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;计划内容提供者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;计划针对的健康问题&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;管理计划的具体实施项&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="705.5" y="1045" width="110" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-24" value="&lt;div style=&quot;font-size: 12px&quot;&gt;治疗计划编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;治疗计划状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;意图&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;标题&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;管理对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;管理计划对应的时期&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;计划创建者&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;计划内容提供者&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;计划针对的健康问题&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;管理计划具体实施项&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="580" y="925" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-40" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="590" width="140" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-40" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="510" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="688.5" y="1025" width="144" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="910" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-26" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1256" y="970" width="216" height="415" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-26" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="800" y="840" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-28" value="Communication(通知)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1294" y="990" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-28" value="Communication通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="810" y="860" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-29" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;患者信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;消息相关信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;接收单位&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;发送单位&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;发送时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;接收时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;消息内容&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1307" y="1060" width="110" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-29" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;患者信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;消息相关信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;接收单位&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;发送单位&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;发送时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;接收时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;消息内容&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="820" y="925" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-30" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="1040" width="144" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-30" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="810" y="910" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-61" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="160" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-61" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="800" y="520" width="160" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-31" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="800" y="440" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-63" value="Hospital&lt;br&gt;医院" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="90" y="100" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-63" value="Hospital&lt;br&gt;医院" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="60" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-33" value="Condition&lt;br style=&quot;font-size: 18px;&quot;&gt;诊断" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="813" y="540" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-33" value="Condition&lt;br style=&quot;font-size: 18px;&quot;&gt;诊断" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="813" y="460" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-64" value="医院编码&lt;br style=&quot;font-size: 12px;&quot;&gt;机构层级种类&lt;br style=&quot;font-size: 12px;&quot;&gt;卫生机构类别&lt;br style=&quot;font-size: 12px;&quot;&gt;地址&lt;br style=&quot;font-size: 12px;&quot;&gt;医院名称&lt;br style=&quot;font-size: 12px;&quot;&gt;别名&lt;br style=&quot;font-size: 12px;&quot;&gt;联系电话&lt;br style=&quot;font-size: 12px;&quot;&gt;电子邮箱&lt;br style=&quot;font-size: 12px;&quot;&gt;官方网页&lt;br style=&quot;font-size: 12px;&quot;&gt;医院简介&lt;br style=&quot;font-size: 12px;&quot;&gt;医院图片" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="110" y="165" width="100" height="200" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-64" value="医院编码&lt;br style=&quot;font-size: 12px;&quot;&gt;机构层级种类&lt;br style=&quot;font-size: 12px;&quot;&gt;卫生机构类别&lt;br style=&quot;font-size: 12px;&quot;&gt;地址&lt;br style=&quot;font-size: 12px;&quot;&gt;医院名称&lt;br style=&quot;font-size: 12px;&quot;&gt;别名&lt;br style=&quot;font-size: 12px;&quot;&gt;联系电话&lt;br style=&quot;font-size: 12px;&quot;&gt;电子邮箱&lt;br style=&quot;font-size: 12px;&quot;&gt;官方网页&lt;br style=&quot;font-size: 12px;&quot;&gt;医院简介&lt;br style=&quot;font-size: 12px;&quot;&gt;医院图片" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="100" y="125" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-34" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;诊断编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;临床状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;核实状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;严重程度&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;诊断结果分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;诊断位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;诊断的主体&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;该次诊断对应的医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;病情发作时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;何时该病情得到了缓解&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;记录时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;记录人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;诊断人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="830" y="605" width="100" height="200" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-34" value="&lt;div style=&quot;font-size: 12px&quot;&gt;诊断编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;临床状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;核实状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;严重程度&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;诊断结果分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;诊断位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;诊断的主体&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;该次诊断对应的就诊&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;病情发作时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;何时该病情得到缓解&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;记录时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;记录人&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;诊断人&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="820" y="525" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-65" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="90" y="150" width="140" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-65" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="110" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-35" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="810" y="590" width="140" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-35" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="810" y="510" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-66" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1565" width="186" height="415" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-66" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1240" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-68" value="Specimen&lt;br&gt;样本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1164" y="1595" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-68" value="Specimen&lt;br&gt;样本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1050" y="1260" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-69" value="样本编号&lt;br style=&quot;font-size: 12px;&quot;&gt;样本类型&lt;br style=&quot;font-size: 12px;&quot;&gt;状态&lt;br style=&quot;font-size: 12px;&quot;&gt;样本类型&lt;br style=&quot;font-size: 12px;&quot;&gt;患者&lt;br style=&quot;font-size: 12px;&quot;&gt;获取样本的时间&lt;br style=&quot;font-size: 12px;&quot;&gt;检验申请&lt;br style=&quot;font-size: 12px;&quot;&gt;采集人&lt;br style=&quot;font-size: 12px;&quot;&gt;采集时间&lt;br style=&quot;font-size: 12px;&quot;&gt;采集量&lt;br style=&quot;font-size: 12px;&quot;&gt;采集方式&lt;br style=&quot;font-size: 12px;&quot;&gt;采集位置&lt;br style=&quot;font-size: 12px;&quot;&gt;进食要求&lt;br style=&quot;font-size: 12px;&quot;&gt;采样过程&lt;br style=&quot;font-size: 12px;&quot;&gt;样本容器&lt;br style=&quot;font-size: 12px;&quot;&gt;保存方式&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1177" y="1665" width="110" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-69" value="样本编号&lt;br style=&quot;font-size: 12px;&quot;&gt;样本类型&lt;br style=&quot;font-size: 12px;&quot;&gt;状态&lt;br style=&quot;font-size: 12px;&quot;&gt;样本类型&lt;br style=&quot;font-size: 12px;&quot;&gt;患者&lt;br style=&quot;font-size: 12px;&quot;&gt;获取样本的时间&lt;br style=&quot;font-size: 12px;&quot;&gt;检验申请&lt;br style=&quot;font-size: 12px;&quot;&gt;采集人&lt;br style=&quot;font-size: 12px;&quot;&gt;采集时间&lt;br style=&quot;font-size: 12px;&quot;&gt;采集量&lt;br style=&quot;font-size: 12px;&quot;&gt;采集方式&lt;br style=&quot;font-size: 12px;&quot;&gt;采集位置&lt;br style=&quot;font-size: 12px;&quot;&gt;进食要求&lt;br style=&quot;font-size: 12px;&quot;&gt;采样过程&lt;br style=&quot;font-size: 12px;&quot;&gt;样本容器&lt;br style=&quot;font-size: 12px;&quot;&gt;保存方式&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="1325" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-70" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="1645" width="144" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-70" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="1310" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-71" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1580" width="238" height="415" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-71" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="320" y="1239" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-73" value="DiagnosticReport(检查报告)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="359" y="1610" width="140" height="45" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-73" value="DiagnosticReport&lt;br&gt;检查报告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="330" y="1260" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-74" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;报告编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;溯源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查场景&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查的对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;报告责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;片子&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查结果&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;结论&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;附件&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="372" y="1680" width="110" height="300" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-74" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;报告编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;溯源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查场景&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查的对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;报告责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;片子&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查结果&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;结论&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;附件&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1325" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-75" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="355" y="1660" width="144" height="10" as="geometry" />
+        <mxCell id="zRFbJm7S1wxy6Lh3OuT4-75" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1310" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-36" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="160" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-36" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560" y="40" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-38" value="Location&lt;br&gt;诊室" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="570" y="100" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-38" value="Location&lt;br&gt;诊室" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="60" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-39" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;诊室号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;诊室名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;别名&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;诊室详细信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;对应科室&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="590" y="165" width="100" height="200" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-39" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;诊室号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;诊室名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;别名&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;诊室详细信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;对应科室&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="580" y="125" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-56" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="320" y="80" width="160" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-56" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-58" value="Department&lt;br&gt;科室" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="328" y="100" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-58" value="Department&lt;br&gt;科室" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="328" y="60" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-59" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;科室编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;是否可用&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;科室名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;别名&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;联系方式&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;电子邮箱&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;地址&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;科室所属医院&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="350" y="165" width="100" height="200" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-59" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;科室编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;是否可用&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;科室名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;别名&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;联系方式&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;电子邮箱&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;地址&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;科室所属医院&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;科室简介&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="125" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-60" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="140" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-60" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="330" y="110" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-61" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="374" y="955" width="186" height="415" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-61" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="320" y="840" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-63" value="Contract(签约)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="398" y="985" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-63" value="Contract&lt;br&gt;签约" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="330" y="860" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-64" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;合同编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同签署时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同有效期&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同主体&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;签约机构&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同名&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同编写者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同条款&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同签署方&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同附件&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="411" y="1055" width="110" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-64" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;合同编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同签署时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同有效期&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同主体&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;签约机构&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同名&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同编写者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同条款&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同签署方&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;合同附件&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="925" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-65" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="394" y="1035" width="144" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-65" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="330" y="910" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-66" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="87" y="950" width="186" height="415" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-66" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="840" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-68" value="CareTeam(签约团队)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="111" y="980" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-68" value="CareTeam&lt;br&gt;签约团队" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="860" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-69" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;团队唯一标识&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;团队服务对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;团队成员&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;团队联系方式&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="124" y="1050" width="110" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-69" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;团队唯一标识&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;团队服务对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;团队成员&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;团队联系方式&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="100" y="925" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-70" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="107" y="1030" width="144" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-70" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="910" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-71" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1391" y="1565" width="186" height="415" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-71" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1240" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-73" value="Observation(观察项)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1415" y="1595" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-73" value="Observation&lt;br&gt;观察项" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1290" y="1260" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-74" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;体征信息唯一标识&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检测项名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;关联对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;当前版本发布时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检测责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;备注&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检测位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;观察项的子项&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1428" y="1665" width="110" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-74" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;体征信息唯一标识&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检测项名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;关联对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;当前版本发布时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检测责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;备注&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检测位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;观察项的子项&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="1325" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-75" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1411" y="1645" width="144" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-75" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="1310" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-76" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="80" width="160" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-76" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="40" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-78" value="DocumentReference&lt;br&gt;电子病历" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1530" y="100" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-78" value="DocumentReference&lt;br&gt;电子病历" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1530" y="60" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-79" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;病历文档ID&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;病历文档标识符&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;患者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档编写日期&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档审核者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;管理机构&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档描述&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档正文&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="165" width="100" height="200" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-79" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;病历文档ID&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;病历文档标识符&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;患者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档编写日期&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档审核者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;管理机构&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档描述&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;文档正文&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="125" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-80" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1530" y="150" width="140" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-80" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="110" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-89" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="582" y="1580" width="223" height="415" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-89" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1239" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-91" value="ServiceRequest(检验申请)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="623.5" y="1610" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-91" value="ServiceRequest&lt;br&gt;检验申请" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="1260" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-92" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;溯源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;意图&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验场景&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验次数&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请检验的科室&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验的位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验的诊室&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请原因&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验样本&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;采样位置&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="636.5" y="1680" width="110" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-92" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;溯源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;意图&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验场景&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验次数&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请检验的科室&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验的位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验的诊室&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请原因&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验样本&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;采样位置&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1325" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-93" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="619.5" y="1660" width="144" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-93" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1310" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-94" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="852.5" y="1565" width="234" height="415" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-94" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1239" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-96" value="DiagnosticReport(检验报告)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="899.5" y="1600" width="140" height="45" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-96" value="DiagnosticReport&lt;br&gt;检验报告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="810" y="1260" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-97" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;报告编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;溯源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验场景&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;报告责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验样本&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验结果&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;结论&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;附件&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="912.5" y="1670" width="110" height="300" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-97" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;报告编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;溯源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验场景&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;报告责任人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验样本&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检验结果&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;结论&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;附件&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="820" y="1325" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="to4YBNBlUao-IPn_FhuO-98" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="895.5" y="1650" width="144" height="10" as="geometry" />
+        <mxCell id="to4YBNBlUao-IPn_FhuO-98" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="810" y="1310" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-1" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1580" width="223" height="415" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-1" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1239" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-3" value="ServiceRequest(检查申请)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="51.5" y="1610" width="140" height="45" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-3" value="ServiceRequest&lt;br&gt;检查申请" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="1260" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-4" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;申请编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;溯源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;意图&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查场景&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查次数&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;被检查的对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查的科室&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查的位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查的诊室&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请原因&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;采样位置&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="64.5" y="1680" width="110" height="300" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-4" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;申请编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;溯源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;意图&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查场景&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查分类&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查次数&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;被检查的对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查的科室&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查的位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;检查的诊室&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请原因&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;采样位置&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1325" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-5" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="47.5" y="1660" width="144" height="10" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-5" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1310" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-19" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry y="2100" width="186" height="415" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-19" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="840" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-21" value="Questionnaire(问卷)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="24" y="2130" width="140" height="45" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-21" value="Questionnaire&lt;br&gt;问卷" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1050" y="860" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-22" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷版本&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷名称（机读）&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷名称 （人读）&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;发布方名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;发布日期&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷问题&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="37" y="2200" width="110" height="300" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-22" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷版本&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷名称（机读）&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷名称 （人读）&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;发布方名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;发布日期&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷问题&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="925" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-23" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2180" width="144" height="10" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-23" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="910" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-24" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2100" width="290" height="415" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-24" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="840" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-26" value="QuestionnaireResponse&lt;br style=&quot;font-size: 18px;&quot;&gt;问卷应答" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="294" y="2130" width="140" height="45" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-26" value="QuestionnaireResponse&lt;br style=&quot;font-size: 18px;&quot;&gt;问卷应答" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1290" y="860" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-27" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷答案编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问题来源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;接收并记录答案的人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷回答者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷问题&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="260" y="2200" width="210" height="300" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-27" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷答案编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问题来源&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;接收并记录答案的人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷回答者&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;问卷问题&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="925" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-28" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="290" y="2180" width="144" height="10" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-28" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="910" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-29" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="970" width="242" height="415" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-29" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="840" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S-8a1_tJUT54iFCu8aue-31" target="S-8a1_tJUT54iFCu8aue-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-31" value="OperationOutcome&lt;br style=&quot;font-size: 18px&quot;&gt;统一错误处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1530" y="860" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-31" value="OperationOutcome&lt;br style=&quot;font-size: 18px;&quot;&gt;(统一错误处理)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1514" y="1000" width="188" height="45" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-32" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;严重度&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;错误原因&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;详情描述&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;错误诊断信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;错误相关的资源字段&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1540" y="925" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-32" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;严重度&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;错误原因&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;详情描述&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;错误诊断信息&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;错误相关的资源字段&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1527" y="1070" width="165" height="300" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-33" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1530" y="910" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-33" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1050" width="144" height="10" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-34" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1640" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-34" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="2100" width="186" height="415" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-36" value="Medication&lt;br&gt;药品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="90" y="1660" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-36" value="Medication(药品)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1214" y="2130" width="140" height="45" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-37" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;药品编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;药品规格&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;药品名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;药品状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;药品厂家名称&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="100" y="1725" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-37" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;药品编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;药品规格&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;药品名称&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;药品状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;药品厂家名称&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1227" y="2200" width="110" height="300" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-38" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="90" y="1710" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-38" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="2180" width="144" height="10" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-44" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1640" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-44" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="623.5" y="2100" width="186" height="415" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-46" value="DeviceRequest&lt;br&gt;设备申请" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="1660" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-46" value="DeviceRequest(设备申请)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="647.5" y="2130" width="140" height="45" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-47" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;设备请求编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;意图&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;设备请求项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;设备请求参数明细&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;设备请求主体&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;期望使用时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请原因&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;价格描述&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1725" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-47" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;设备请求编号&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;意图&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;设备请求项目&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;设备请求参数明细&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;设备请求主体&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;期望使用时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;申请原因&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;价格描述&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="660.5" y="2200" width="110" height="300" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-48" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1710" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-48" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="643.5" y="2180" width="144" height="10" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-69" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="317.5" y="1640" width="160" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-69" value="" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=8;fontSize=20;align=center;fillColor=#FED217;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="906.5" y="2100" width="186" height="415" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-71" value="Media&lt;br&gt;媒体文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="330" y="1660" width="140" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-71" value="Media(媒体文件)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=18;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="931.5" y="2130" width="140" height="45" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-72" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;检查申请&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;媒体类型&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;影像类型&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;拍摄对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;拍片时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;当前版本的发布时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;拍片人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;采样位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;附件&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1725" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-72" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;检查申请&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;状态&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;媒体类型&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;影像类型&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;拍摄对象&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;相关医疗事件&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;拍片时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;当前版本的发布时间&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;拍片人&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;采样位置&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;附件&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;shadow=0;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="943.5" y="2200" width="110" height="300" as="geometry" />
+        <mxCell id="S-8a1_tJUT54iFCu8aue-73" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="330" y="1710" width="140" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="S-8a1_tJUT54iFCu8aue-73" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="926.5" y="2180" width="144" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="jAnQwhEOHvknRrBbr3nV-12" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="570" y="150" width="140" height="10" as="geometry" />
+        <mxCell id="jAnQwhEOHvknRrBbr3nV-12" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="570" y="110" width="140" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
